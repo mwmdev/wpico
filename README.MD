@@ -42,6 +42,7 @@ Here's the source code of a default homepage with **wpico** :
 <!doctype html>
 <html lang="en-US">
   <head>
+    <title>wpico</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
