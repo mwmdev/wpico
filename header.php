@@ -1,6 +1,15 @@
 <!doctype html>
 <html <?php language_attributes(); ?> >
 <head>
+	<title>
+		<?php
+		if ( is_front_page() ) {
+			bloginfo( 'name' );
+		} else {
+			wp_title( '' );
+		}
+		?>
+	</title>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
