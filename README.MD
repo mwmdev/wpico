@@ -3,7 +3,7 @@
 
 ![screenshot-admin](screenshot-admin.png)
 
-**wpico** is a barebones starter theme for <a href="https://wordpress.org">Wordpress</a> using the <a href="https://picocss.com">picocss</a> CSS framework.
+**wpico** is a barebones starter theme for <a href="https://wordpress.org">Wordpress</a> using the <a href="https://picocss.com">Pico CSS</a> framework.
 
 It is designed to be a starting point for developers using Wordpress as a CMS, its goal is to be as lightweight as possible, by removing all the unnecessary bloat that comes with Wordpress and CSS frameworks these days.
 
