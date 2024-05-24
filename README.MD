@@ -3,32 +3,36 @@
 
 ![screenshot-admin](screenshot-admin.png)
 
-**wpico** is a barebones starter theme for <a href="https://wordpress.org">Wordpress</a> using the <a href="https://picocss.com">Pico CSS</a> framework.
+**wpico** is a barebones starter theme for <a href="https://wordpress.org" target="_blank">Wordpress</a> using the <a href="https://picocss.com" target="_blank">Pico CSS</a> framework.
 
 It is designed to be a starting point for developers using Wordpress as a CMS, its goal is to be as lightweight as possible, by removing all the unnecessary bloat that comes with Wordpress and CSS frameworks these days.
 
+**wpico** is : fast, semantic, responsive and expandable.
+
 ## Installation
 
-Clone this repository into your Wordpress themes directory or <a href="https://github.com/mwmdev/wpico/archive/refs/heads/main.zip">download</a> as a zip archive and upload it to your Wordpress admin in « Appearance > Themes > Upload Theme ».
+Clone this repository into your Wordpress themes directory or <a href="https://github.com/mwmdev/wpico/archive/refs/heads/main.zip">download</a> as a zip archive and upload to your Wordpress admin in « Appearance > Themes > Upload Theme ».
 
 ## Features
-- Clean head
-- Classic editor
-- No comments
-- No « post » post type
+
+- Clean `<head>`
+- No inline styles
+- Classic editor, no _Gutenberg_ hell
+- No comments management
+- No « post » post type, only « page »
 - No « categories » and « tags » taxonomies
-- No author archives
-- No dates archives
-- Lightweight menus
+- No author and date archives
+- Lightweight menus, no unnecessary wrappers, classes and ids
 - No dashboard widgets
 - No emojis
-- No Wordpress branding
+- No Wordpress branding and no version numbers
 - No RSS feeds
+- No XML-RPC, pingbacks and heartbeat
 - No theme / plugins editor
-- Allow webp and svg uploads
+- Allows webp and svg uploads
 - Security headers
 - Revisions set to 5 max
-
+- and many other small tweaks...
 
 ## Example
 
